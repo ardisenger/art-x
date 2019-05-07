@@ -1,0 +1,6 @@
+ЗАПРОС - service_id=77284&order_id=5906606077&product_id=386&payment_method_id=90&hash=b1230f804d8527fd7339fa8304e5f545&msisdn=79100888892&is_recurrent=true : ОШИБКА - 102
+ЗАПРОС - service_id=77284&order_id=9748036024&product_id=386&payment_method_id=90&hash=988259e356c6823b9d9c71839c558c1a&msisdn=79100888892&is_recurrent=true : ОШИБКА - 102
+ЗАПРОС - Номер телефона: 79100888892 : ОШИБКА - Array
+ЗАПРОС - service_id=77284&order_id=9234003754&product_id=386&payment_method_id=90&hash=c95dce941ebdbfc8b496923d8dde6f24&msisdn=79100888891&is_recurrent=true : ОШИБКА - 102
+ЗАПРОС - service_id=77284&order_id=5035612052&product_id=386&payment_method_id=90&hash=bba5a6d5917f0220301dd111f9f85608&msisdn=79100888892&is_recurrent=true : ОШИБКА - 102
+ЗАПРОС - service_id=77284&order_id=1454308073&product_id=386&payment_method_id=90&hash=eedb1a467eb9b64f093cc92e24f1de7c&msisdn=79100888892&is_recurrent=true : ОШИБКА - 102

@@ -1,0 +1,208 @@
+Успешно init - Номер: 79962047106 - Ошибка: CONFIRMATION - 0
+Запрос smsCode - Подписка: 7063341; Статус: DENIED - ; Ошибка: 53
+Неверно введен код СМС -  - subscription_id - 7063341 код ошибки - 53
+Успешно init - Номер: 79261494945 - Ошибка: CONFIRMATION - 0
+Запрос - service_id=77284&order_id=9766203308&product_id=386&payment_method_id=90&hash=8750aa6ad486ba66b9146c7f505143d5&msisdn=79261494945&is_recurrent=true - 
+Ошибка init - Номер:79261494945 - Ошибка: service_id=77284&order_id=9766203308&product_id=386&payment_method_id=90&hash=8750aa6ad486ba66b9146c7f505143d5&msisdn=79261494945&is_recurrent=true - 102
+Номер телефона: 79261494945 - Статус - DENIED - Код ошибки4
+Успешно init - Номер: 79263978455 - Ошибка: CONFIRMATION - 0
+Номер телефона: 79263978455 - Статус - DENIED - Код ошибки102
+Запрос - service_id=77284&order_id=4679208753&product_id=386&payment_method_id=90&hash=c99aa8c62e902e9f253cefafc7a905c0&msisdn=79261494950&is_recurrent=true - 
+Успешно init - Номер: 79261494950 - Ошибка: CONFIRMATION - 0
+Запрос smsCode - Подписка: 7064891; Статус: ACCEPTED - ; Ошибка: 0
+Запрос - service_id=77284&order_id=9662182939&product_id=386&payment_method_id=90&hash=a18d34f5bbf792418e09a37106a380b2&msisdn=79261494950&is_recurrent=true - 
+Успешно init - Номер: 79261494950 - Ошибка: CONFIRMATION - 0
+Запрос smsCode - Подписка: 7064897; Статус: ACCEPTED - ; Ошибка: 0
+Запрос - service_id=77284&order_id=9869855047&product_id=386&payment_method_id=90&hash=884bf4d9a22ef9037a7c4867ad7be760&msisdn=79100888892&is_recurrent=true - 
+Ошибка init - Номер:79100888892 - Ошибка: service_id=77284&order_id=9869855047&product_id=386&payment_method_id=90&hash=884bf4d9a22ef9037a7c4867ad7be760&msisdn=79100888892&is_recurrent=true - 500
+Номер телефона: 79100888892 - Статус - DENIED - Код ошибки4
+Запрос - service_id=77284&order_id=6256318478&product_id=386&payment_method_id=90&hash=11e2e9338533131f0d05d822cc54977b&msisdn=79100888892&is_recurrent=true - 
+Ошибка init - Номер:79100888892 - Ошибка: service_id=77284&order_id=6256318478&product_id=386&payment_method_id=90&hash=11e2e9338533131f0d05d822cc54977b&msisdn=79100888892&is_recurrent=true - 500
+Номер телефона: 79100888892 - Статус - DENIED - Код ошибки4
+Запрос - service_id=77284&order_id=3205519880&product_id=386&payment_method_id=90&hash=6e8820d6712f352d2089ed64e8a70c2b&msisdn=79100888892&is_recurrent=true - 
+Ошибка init - Номер:79100888892 - Ошибка: service_id=77284&order_id=3205519880&product_id=386&payment_method_id=90&hash=6e8820d6712f352d2089ed64e8a70c2b&msisdn=79100888892&is_recurrent=true - 102
+Номер телефона: 79100888892 - Статус - DENIED - Код ошибки4
+Запрос - service_id=77284&order_id=5082634400&product_id=386&payment_method_id=90&hash=ab1126d50c6d4e817fb175bc289b9b08&msisdn=79100888892&is_recurrent=true - 
+Ошибка init - Номер:79100888892 - Ошибка: service_id=77284&order_id=5082634400&product_id=386&payment_method_id=90&hash=ab1126d50c6d4e817fb175bc289b9b08&msisdn=79100888892&is_recurrent=true - 102
+Номер телефона: 79100888892 - Статус - DENIED - Код ошибки4
+Запрос - service_id=77284&order_id=9309199158&product_id=386&payment_method_id=90&hash=8ac3d53d6a804f89966c088efa7ee932&msisdn=79100888892&is_recurrent=true - 
+Номер телефона: 79100888892 - Статус - DENIED - Код ошибки4
+Запрос - service_id=77284&order_id=4494008823&product_id=386&payment_method_id=90&hash=863ad11d71d0cc0f3dc1daf2efbe5ab9&msisdn=79100888892&is_recurrent=true - 
+Запрос - service_id=77284&order_id=9906416295&product_id=386&payment_method_id=90&hash=e81c5540c5a319b9e0f3c36cce33accc&msisdn=79100888822&is_recurrent=true - 
+Запрос - service_id=77284&order_id=1686856003&product_id=386&payment_method_id=90&hash=ced4f274378dc731db9ff3129043251e&msisdn=79778889945&is_recurrent=true - 
+Запрос - service_id=77284&order_id=4558506820&product_id=386&payment_method_id=90&hash=3b85f3339f3816829e377e3b7ccfd624&msisdn=79778889910&is_recurrent=true - 
+Запрос - service_id=77284&order_id=6749948926&product_id=386&payment_method_id=90&hash=b69d1a72fe5eb3e44d2ac03824fbe5cd&msisdn=79778889910&is_recurrent=true - 
+Номер телефона: 79778889910 - Статус - DENIED - Код ошибки4
+Запрос - service_id=77284&order_id=3049552475&product_id=386&payment_method_id=90&hash=5568a96ddd96e6cee9d9cb5216e95fa6&msisdn=79778889910&is_recurrent=true - 
+Запрос - service_id=77284&order_id=8569390000&product_id=386&payment_method_id=90&hash=c33f81465caf8db219c79d25cac2c233&msisdn=79778889910&is_recurrent=true - 
+Запрос - service_id=77284&order_id=5755696219&product_id=386&payment_method_id=90&hash=ed5ae9adee1d7e77b4bea2e33e00391c&msisdn=79778889910&is_recurrent=true - 
+Запрос - service_id=77284&order_id=7311939982&product_id=386&payment_method_id=90&hash=3b93e973b3863b6da77d3693ed232ca0&msisdn=79778889910&is_recurrent=true - 
+Номер телефона: 79778889910 - Статус - DENIED - Код ошибки4
+Запрос - service_id=77284&order_id=4101807073&product_id=386&payment_method_id=90&hash=b9a1dbb6b14701546d7decd819a5ef33&msisdn=79778889910&is_recurrent=true - 
+Запрос - service_id=77284&order_id=5310839596&product_id=386&payment_method_id=90&hash=65bd1c5513b1722a82ebbd1319c97921&msisdn=79778889910&is_recurrent=true - 
+Запрос - service_id=77284&order_id=8410038406&product_id=386&payment_method_id=90&hash=6371d793dadb00f8bc2bb6e2276912da&msisdn=79778889910&is_recurrent=true - 
+Номер телефона: 79778889910 - Статус - DENIED - Код ошибки4
+Запрос - service_id=77284&order_id=3467456190&product_id=386&payment_method_id=90&hash=197d885820ff351ac7033d5c0cd0fdef&msisdn=79778889910&is_recurrent=true - 
+Запрос - service_id=77284&order_id=3931860362&product_id=386&payment_method_id=90&hash=517809bdffc44be3c6728def9e942409&msisdn=79778889910&is_recurrent=true - 
+Ошибка init - Номер:79778889910 - Ошибка: service_id=77284&order_id=3931860362&product_id=386&payment_method_id=90&hash=517809bdffc44be3c6728def9e942409&msisdn=79778889910&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=7630235994&product_id=386&payment_method_id=90&hash=dc37896dac977084bddd12a4e4839c4a&msisdn=79778889910&is_recurrent=true - 
+Ошибка init - Номер:79778889910 - Ошибка: service_id=77284&order_id=7630235994&product_id=386&payment_method_id=90&hash=dc37896dac977084bddd12a4e4839c4a&msisdn=79778889910&is_recurrent=true - 102
+Ошибка init - Номер:79778889910 - Ошибка: service_id=77284&order_id=7630235994&product_id=386&payment_method_id=90&hash=dc37896dac977084bddd12a4e4839c4a&msisdn=79778889910&is_recurrent=true - 
+Запрос - service_id=77284&order_id=5819783161&product_id=386&payment_method_id=90&hash=01d84ab7165f765465d13476493c03ce&msisdn=79778889910&is_recurrent=true - 
+Ошибка init - Номер:79778889910 - Ошибка: service_id=77284&order_id=5819783161&product_id=386&payment_method_id=90&hash=01d84ab7165f765465d13476493c03ce&msisdn=79778889910&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=1745177305&product_id=386&payment_method_id=90&hash=df925d0c67b7ee3218263be6789fb6f0&msisdn=79778889910&is_recurrent=true - 
+Ошибка init - Номер:79778889910 - Ошибка: service_id=77284&order_id=1745177305&product_id=386&payment_method_id=90&hash=df925d0c67b7ee3218263be6789fb6f0&msisdn=79778889910&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=4435903941&product_id=386&payment_method_id=90&hash=81a1c048430f454351f7fdac9a6c9619&msisdn=79778889910&is_recurrent=true - 
+Ошибка init - Номер:79778889910 - Ошибка: service_id=77284&order_id=4435903941&product_id=386&payment_method_id=90&hash=81a1c048430f454351f7fdac9a6c9619&msisdn=79778889910&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=9002496847&product_id=386&payment_method_id=90&hash=4999514dd6e985852b9d9ba1c96eafdb&msisdn=79778889910&is_recurrent=true - 
+Ошибка init - Номер:79778889910 - Ошибка: service_id=77284&order_id=9002496847&product_id=386&payment_method_id=90&hash=4999514dd6e985852b9d9ba1c96eafdb&msisdn=79778889910&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=2592768419&product_id=386&payment_method_id=90&hash=2cdfbf2a16436e121b8aabc4532feace&msisdn=79778889966&is_recurrent=true - 
+Успешно init - Номер: 79778889966 - Ошибка: CONFIRMATION - 0
+Запрос - service_id=77284&order_id=9965565239&product_id=386&payment_method_id=90&hash=61a24ddd8e3815abe3989977cd384466&msisdn=79778889966&is_recurrent=true - 
+Успешно init - Номер: 79778889966 - Ошибка: CONFIRMATION - 0
+Запрос - service_id=77284&order_id=2096042236&product_id=386&payment_method_id=90&hash=2472a57125aaae68d1dffa6b8ffdcf30&msisdn=79778889966&is_recurrent=true - 
+Ошибка init - Номер:79778889966 - Ошибка: service_id=77284&order_id=2096042236&product_id=386&payment_method_id=90&hash=2472a57125aaae68d1dffa6b8ffdcf30&msisdn=79778889966&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=8714915571&product_id=386&payment_method_id=90&hash=8ec193f69170dbb85924fd18804f97ef&msisdn=79778889966&is_recurrent=true - 
+Ошибка init - Номер:79778889966 - Ошибка: service_id=77284&order_id=8714915571&product_id=386&payment_method_id=90&hash=8ec193f69170dbb85924fd18804f97ef&msisdn=79778889966&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=8790197393&product_id=386&payment_method_id=90&hash=0b8ae4fac513e5e4704b9402556a26f7&msisdn=79778889966&is_recurrent=true - 
+Ошибка init - Номер:79778889966 - Ошибка: service_id=77284&order_id=8790197393&product_id=386&payment_method_id=90&hash=0b8ae4fac513e5e4704b9402556a26f7&msisdn=79778889966&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=3876071829&product_id=386&payment_method_id=90&hash=aa78df377ad0e02c1733bc688776f8a9&msisdn=79778858888&is_recurrent=true - 
+Успешно init - Номер: 79778858888 - Ошибка: CONFIRMATION - 0
+Запрос - service_id=77284&order_id=5894516340&product_id=386&payment_method_id=90&hash=2a270ea69690e38a398d3317a3a764cb&msisdn=79778858888&is_recurrent=true - 
+Ошибка init - Номер:79778858888 - Ошибка: service_id=77284&order_id=5894516340&product_id=386&payment_method_id=90&hash=2a270ea69690e38a398d3317a3a764cb&msisdn=79778858888&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=5460391486&product_id=386&payment_method_id=90&hash=3139c6ce6795ab1bcae98a9f1d7305d0&msisdn=79778858888&is_recurrent=true - 
+Ошибка init - Номер:79778858888 - Ошибка: service_id=77284&order_id=5460391486&product_id=386&payment_method_id=90&hash=3139c6ce6795ab1bcae98a9f1d7305d0&msisdn=79778858888&is_recurrent=true - 102
+Номер телефона: 79778858888 - Статус - DENIED - Код ошибки4
+Запрос - service_id=77284&order_id=5831209265&product_id=386&payment_method_id=90&hash=df012bf2700a3eb7751045a30a236b01&msisdn=79778858888&is_recurrent=true - 
+Ошибка init - Номер:79778858888 - Ошибка: service_id=77284&order_id=5831209265&product_id=386&payment_method_id=90&hash=df012bf2700a3eb7751045a30a236b01&msisdn=79778858888&is_recurrent=true - 102
+Номер телефона: 79778858888 - Статус - DENIED - Код ошибки4
+Запрос - service_id=77284&order_id=2893599478&product_id=386&payment_method_id=90&hash=51395eb9512eddb65437e4949a7dc5da&msisdn=79778858888&is_recurrent=true - 
+Ошибка init - Номер:79778858888 - Ошибка: service_id=77284&order_id=2893599478&product_id=386&payment_method_id=90&hash=51395eb9512eddb65437e4949a7dc5da&msisdn=79778858888&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=8277575881&product_id=386&payment_method_id=90&hash=4ca5c2d178250bc9480b02ead2e3809e&msisdn=79260888891&is_recurrent=true - 
+Успешно init - Номер: 79260888891 - Ошибка: CONFIRMATION - 0
+Запрос smsCode - Подписка: 7066004; Статус: ACCEPTED - ; Ошибка: 0
+Запрос - service_id=77284&order_id=5941852701&product_id=386&payment_method_id=90&hash=2bbba5f56919a9e975a804a9e4a74920&msisdn=79261494913&is_recurrent=true - 
+Успешно init - Номер: 79261494913 - Ошибка: CONFIRMATION - 0
+Запрос smsCode - Подписка: 7066015; Статус: ACCEPTED - ; Ошибка: 0
+Запрос smsCode - Подписка: 7066015; Статус: ACCEPTED - ; Ошибка: 0
+Запрос smsCode - Подписка: 7066015; Статус: ACCEPTED - ; Ошибка: 0
+Запрос - service_id=77284&order_id=1857516013&product_id=386&payment_method_id=90&hash=4ed4027fb35d8b802acc96c4beacc0bd&msisdn=79261494913&is_recurrent=true - 
+Успешно init - Номер: 79261494913 - Ошибка: CONFIRMATION - 0
+Запрос - service_id=77284&order_id=3831856979&product_id=386&payment_method_id=90&hash=5ca664a533c24aca6fd67113651b2421&msisdn=79261494913&is_recurrent=true - 
+Ошибка init - Номер:79261494913 - Ошибка: service_id=77284&order_id=3831856979&product_id=386&payment_method_id=90&hash=5ca664a533c24aca6fd67113651b2421&msisdn=79261494913&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=7057193862&product_id=386&payment_method_id=90&hash=3d9118f1355def29b1bd784c54ab9c85&msisdn=79261494911&is_recurrent=true - 
+Успешно init - Номер: 79261494911 - Ошибка: CONFIRMATION - 0
+Запрос - service_id=77284&order_id=2400247612&product_id=386&payment_method_id=90&hash=9b238091bdfe16fcaafba4972fbc853a&msisdn=79261494914&is_recurrent=true - 
+Успешно init - Номер: 79261494914 - Ошибка: CONFIRMATION - 0
+Запрос - service_id=77284&order_id=7732163527&product_id=386&payment_method_id=90&hash=b90d446fec043849e4b3feb1d6bbd390&msisdn=79261494914&is_recurrent=true - 
+Ошибка init - Номер:79261494914 - Ошибка: service_id=77284&order_id=7732163527&product_id=386&payment_method_id=90&hash=b90d446fec043849e4b3feb1d6bbd390&msisdn=79261494914&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=5437635755&product_id=386&payment_method_id=90&hash=8a9225d3745eb8493a4615cf08da0df5&msisdn=79261494914&is_recurrent=true - 
+Ошибка init - Номер:79261494914 - Ошибка: service_id=77284&order_id=5437635755&product_id=386&payment_method_id=90&hash=8a9225d3745eb8493a4615cf08da0df5&msisdn=79261494914&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=5209030512&product_id=386&payment_method_id=90&hash=8b1404209f0faf450c0f75037985737b&msisdn=79261494914&is_recurrent=true - 
+Ошибка init - Номер:79261494914 - Ошибка: service_id=77284&order_id=5209030512&product_id=386&payment_method_id=90&hash=8b1404209f0faf450c0f75037985737b&msisdn=79261494914&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=7555779758&product_id=386&payment_method_id=90&hash=e3a2cd769a4f8bfcbf0832497012738b&msisdn=79261494999&is_recurrent=true - 
+Успешно init - Номер: 79261494999 - Ошибка: CONFIRMATION - 0
+Запрос - service_id=77284&order_id=1373846915&product_id=386&payment_method_id=90&hash=a0507ceaf94f1ffe897eeb341d0bdd49&msisdn=79261494999&is_recurrent=true - 
+Ошибка init - Номер:79261494999 - Ошибка: service_id=77284&order_id=1373846915&product_id=386&payment_method_id=90&hash=a0507ceaf94f1ffe897eeb341d0bdd49&msisdn=79261494999&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=1973417874&product_id=386&payment_method_id=90&hash=61e1d7a3a300218711ed1084d928f097&msisdn=79261494999&is_recurrent=true - 
+Ошибка init - Номер:79261494999 - Ошибка: service_id=77284&order_id=1973417874&product_id=386&payment_method_id=90&hash=61e1d7a3a300218711ed1084d928f097&msisdn=79261494999&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=4759517194&product_id=386&payment_method_id=90&hash=96f539a9739ebfb200c3569ab7860c28&msisdn=79261494999&is_recurrent=true - 
+Ошибка init - Номер:79261494999 - Ошибка: service_id=77284&order_id=4759517194&product_id=386&payment_method_id=90&hash=96f539a9739ebfb200c3569ab7860c28&msisdn=79261494999&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=3751693824&product_id=386&payment_method_id=90&hash=fb77e957268da4558011078952e57ea9&msisdn=79261494999&is_recurrent=true - 
+Ошибка init - Номер:79261494999 - Ошибка: service_id=77284&order_id=3751693824&product_id=386&payment_method_id=90&hash=fb77e957268da4558011078952e57ea9&msisdn=79261494999&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=9227157863&product_id=386&payment_method_id=90&hash=1a500658b1f1e122cab4548205288ccb&msisdn=79261494999&is_recurrent=true - 
+Ошибка init - Номер:79261494999 - Ошибка: service_id=77284&order_id=9227157863&product_id=386&payment_method_id=90&hash=1a500658b1f1e122cab4548205288ccb&msisdn=79261494999&is_recurrent=true - 102
+Номер телефона: 79261494999 - Статус - DENIED - Код ошибки3
+Запрос - service_id=77284&order_id=6369360045&product_id=386&payment_method_id=90&hash=c8b4a49bf1f5e2a6f38792b01c44d804&msisdn=79261494999&is_recurrent=true - 
+Ошибка init - Номер:79261494999 - Ошибка: service_id=77284&order_id=6369360045&product_id=386&payment_method_id=90&hash=c8b4a49bf1f5e2a6f38792b01c44d804&msisdn=79261494999&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=9961542448&product_id=386&payment_method_id=90&hash=f89e02f79fe3e9fb14071a2bf6fc2d91&msisdn=79261494999&is_recurrent=true - 
+Ошибка init - Номер:79261494999 - Ошибка: service_id=77284&order_id=9961542448&product_id=386&payment_method_id=90&hash=f89e02f79fe3e9fb14071a2bf6fc2d91&msisdn=79261494999&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=2856317788&product_id=386&payment_method_id=90&hash=0e8103bd9b14b3827c23c8c01af597e2&msisdn=79261494855&is_recurrent=true - 
+Успешно init - Номер: 79261494855 - Ошибка: CONFIRMATION - 0
+Запрос smsCode - Подписка: 7066137; Статус: ACCEPTED - ; Ошибка: 0
+Запрос smsCode - Подписка: 7066137; Статус: ACCEPTED - ; Ошибка: 0
+Запрос smsCode - Подписка: 7066137; Статус: ACCEPTED - ; Ошибка: 0
+Запрос - service_id=77284&order_id=1300712412&product_id=386&payment_method_id=90&hash=4f21311c6121d55933b75ed8a8f1fcb0&msisdn=79261494855&is_recurrent=true - 
+Успешно init - Номер: 79261494855 - Ошибка: CONFIRMATION - 0
+Запрос - service_id=77284&order_id=7767096823&product_id=386&payment_method_id=90&hash=1a1c5334f63b781ebeff2e1f2f8df3f2&msisdn=79261494855&is_recurrent=true - 
+Ошибка init - Номер:79261494855 - Ошибка: service_id=77284&order_id=7767096823&product_id=386&payment_method_id=90&hash=1a1c5334f63b781ebeff2e1f2f8df3f2&msisdn=79261494855&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=1159848723&product_id=386&payment_method_id=90&hash=67e86061799ebccfa38799f542162ec9&msisdn=79261494860&is_recurrent=true - 
+Успешно init - Номер: 79261494860 - Ошибка: CONFIRMATION - 0
+Запрос - service_id=77284&order_id=7260849850&product_id=386&payment_method_id=90&hash=d402e5772dc75d3e67feda902c65bb03&msisdn=79261494860&is_recurrent=true - 
+Ошибка init - Номер:79261494860 - Ошибка: service_id=77284&order_id=7260849850&product_id=386&payment_method_id=90&hash=d402e5772dc75d3e67feda902c65bb03&msisdn=79261494860&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=9145955751&product_id=386&payment_method_id=90&hash=ba7648e463e97462b34300c095161123&msisdn=79261494860&is_recurrent=true - 
+Ошибка init - Номер:79261494860 - Ошибка: service_id=77284&order_id=9145955751&product_id=386&payment_method_id=90&hash=ba7648e463e97462b34300c095161123&msisdn=79261494860&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=9814915396&product_id=386&payment_method_id=90&hash=70bf4b8405db78be4b0f6b02244349e5&msisdn=79261494942&is_recurrent=true - 
+Успешно init - Номер: 79261494942 - Ошибка: CONFIRMATION - 0
+Запрос - service_id=77284&order_id=8906346003&product_id=386&payment_method_id=90&hash=46fe756f50e6bb275a2801b817c18933&msisdn=79261494942&is_recurrent=true - 
+Успешно init - Номер: 79261494942 - Ошибка: CONFIRMATION - 0
+Запрос - service_id=77284&order_id=2883695244&product_id=386&payment_method_id=90&hash=b2df8b164c92b57039c31ad209101a38&msisdn=79261494942&is_recurrent=true - 
+Ошибка init - Номер:79261494942 - Ошибка: service_id=77284&order_id=2883695244&product_id=386&payment_method_id=90&hash=b2df8b164c92b57039c31ad209101a38&msisdn=79261494942&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=2558774802&product_id=386&payment_method_id=90&hash=fef7d0a7bf5cdea1b9333bb9e3d34a85&msisdn=79261478899&is_recurrent=true - 
+Ошибка init - Номер:79261478899 - Ошибка: service_id=77284&order_id=2558774802&product_id=386&payment_method_id=90&hash=fef7d0a7bf5cdea1b9333bb9e3d34a85&msisdn=79261478899&is_recurrent=true - 4
+Запрос - service_id=77284&order_id=9161127354&product_id=386&payment_method_id=90&hash=602ebd1058354bae1148e5dd981b6098&msisdn=79261478811&is_recurrent=true - 
+Успешно init - Номер: 79261478811 - Ошибка: CONFIRMATION - 0
+Запрос - service_id=77284&order_id=6670908277&product_id=386&payment_method_id=90&hash=e8359114880f59f39ea8a1f55ba38d28&msisdn=79261478811&is_recurrent=true - 
+Успешно init - Номер: 79261478811 - Ошибка: CONFIRMATION - 0
+Запрос - service_id=77284&order_id=8538187424&product_id=386&payment_method_id=90&hash=83863a92a768768fdf520fc7ce64c79b&msisdn=79261478811&is_recurrent=true - 
+Ошибка init - Номер:79261478811 - Ошибка: service_id=77284&order_id=8538187424&product_id=386&payment_method_id=90&hash=83863a92a768768fdf520fc7ce64c79b&msisdn=79261478811&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=5434325152&product_id=386&payment_method_id=90&hash=e6994fa7d6c6838322435459e782a929&msisdn=79261478811&is_recurrent=true - 
+Ошибка init - Номер:79261478811 - Ошибка: service_id=77284&order_id=5434325152&product_id=386&payment_method_id=90&hash=e6994fa7d6c6838322435459e782a929&msisdn=79261478811&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=8889503535&product_id=386&payment_method_id=90&hash=68e80413ed97b7f8fb7e390850e2960a&msisdn=79261478811&is_recurrent=true - 
+Ошибка init - Номер:79261478811 - Ошибка: service_id=77284&order_id=8889503535&product_id=386&payment_method_id=90&hash=68e80413ed97b7f8fb7e390850e2960a&msisdn=79261478811&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=4434935344&product_id=386&payment_method_id=90&hash=74a4f71bd5f777a8723b339cdfebe2ef&msisdn=79100888811&is_recurrent=true - 
+Ошибка init - Номер:79100888811 - Ошибка: service_id=77284&order_id=4434935344&product_id=386&payment_method_id=90&hash=74a4f71bd5f777a8723b339cdfebe2ef&msisdn=79100888811&is_recurrent=true - 500
+Запрос - service_id=77284&order_id=5977922244&product_id=386&payment_method_id=90&hash=39660abbb393e353b91b701c9d24d824&msisdn=79100888812&is_recurrent=true - 
+Ошибка init - Номер:79100888812 - Ошибка: service_id=77284&order_id=5977922244&product_id=386&payment_method_id=90&hash=39660abbb393e353b91b701c9d24d824&msisdn=79100888812&is_recurrent=true - 500
+Запрос - service_id=77284&order_id=6434366101&product_id=386&payment_method_id=90&hash=d4a2738ea2b3e8c0f61c826405a594ac&msisdn=79161711111&is_recurrent=true - 
+Ошибка init - Номер:79161711111 - Ошибка: service_id=77284&order_id=6434366101&product_id=386&payment_method_id=90&hash=d4a2738ea2b3e8c0f61c826405a594ac&msisdn=79161711111&is_recurrent=true - 500
+Запрос - service_id=77284&order_id=1616145648&product_id=386&payment_method_id=90&hash=62c4d2e484dd6ecd71492744a846f467&msisdn=79771711111&is_recurrent=true - 
+Успешно init - Номер: 79771711111 - Ошибка: CONFIRMATION - 0
+Запрос - service_id=77284&order_id=4269050559&product_id=386&payment_method_id=90&hash=d7a8b2629730ce6c0a1ef0090aecb80c&msisdn=79771711111&is_recurrent=true - 
+Ошибка init - Номер:79771711111 - Ошибка: service_id=77284&order_id=4269050559&product_id=386&payment_method_id=90&hash=d7a8b2629730ce6c0a1ef0090aecb80c&msisdn=79771711111&is_recurrent=true - 102
+Запрос smsCode - Подписка: 7068432; Статус: DENIED - ; Ошибка: 53
+Неверно введен код СМС -  - subscription_id - 7068432 код ошибки - 53
+Запрос smsCode - Подписка: 7068432; Статус: DENIED - ; Ошибка: 53
+Неверно введен код СМС -  - subscription_id - 7068432 код ошибки - 53
+Запрос smsCode - Подписка: 7068432; Статус: DENIED - ; Ошибка: 53
+Неверно введен код СМС -  - subscription_id - 7068432 код ошибки - 53
+Запрос - service_id=77284&order_id=3785069981&product_id=386&payment_method_id=90&hash=6e3437b2eac2c2fdf7d2685cf6c7f3c7&msisdn=79771711111&is_recurrent=true - 
+Успешно init - Номер: 79771711111 - Ошибка: CONFIRMATION - 0
+Запрос smsCode - Подписка: 7068635; Статус: DENIED - ; Ошибка: 53
+Неверно введен код СМС -  - subscription_id - 7068635 код ошибки - 53
+Запрос - service_id=77284&order_id=7772850801&product_id=386&payment_method_id=90&hash=fbed37a20ec5ec4e99a620a89342b1df&msisdn=79261488955&is_recurrent=true - 
+Успешно init - Номер: 79261488955 - Ошибка: CONFIRMATION - 0
+Запрос smsCode - Подписка: 7068645; Статус: ACCEPTED - ; Ошибка: 0
+Запрос - service_id=77284&order_id=7706563342&product_id=386&payment_method_id=90&hash=82ff31198b899e27082dc9de392fa644&msisdn=79267255033&is_recurrent=true - 
+Успешно init - Номер: 79267255033 - Ошибка: CONFIRMATION - 0
+Запрос smsCode - Подписка: 7068733; Статус: ACCEPTED - ; Ошибка: 0
+Успешно init - Номер: 79263978455 - Ошибка: CONFIRMATION - 0
+Запрос smsCode - Подписка: 7068849; Статус: ACCEPTED - ; Ошибка: 0
+Запрос - service_id=77284&order_id=4130690323&product_id=386&payment_method_id=90&hash=67758fa9b15ca42aeb2ff202708d45ba&msisdn=79263978455&is_recurrent=true - 
+Ошибка init - Номер:79263978455 - Ошибка: service_id=77284&order_id=4130690323&product_id=386&payment_method_id=90&hash=67758fa9b15ca42aeb2ff202708d45ba&msisdn=79263978455&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=5891627948&product_id=386&payment_method_id=90&hash=97b35edf5845589a6e1469fee6813044&msisdn=79263978455&is_recurrent=true - 
+Ошибка init - Номер:79263978455 - Ошибка: service_id=77284&order_id=5891627948&product_id=386&payment_method_id=90&hash=97b35edf5845589a6e1469fee6813044&msisdn=79263978455&is_recurrent=true - 102
+Номер телефона: 79263978455 - Статус - DENIED - Код ошибки102
+Номер телефона: 79263978455 - Статус - DENIED - Код ошибки102
+Успешно init - Номер: 79263978460 - Ошибка: CONFIRMATION - 0
+Запрос smsCode - Подписка: 7069181; Статус: ACCEPTED - ; Ошибка: 0
+Запрос - service_id=77284&order_id=8296772389&product_id=386&payment_method_id=90&hash=3a6d639551d5d61b1571627d690e4199&msisdn=79100888892&is_recurrent=true - 
+Ошибка init - Номер:79100888892 - Ошибка: service_id=77284&order_id=8296772389&product_id=386&payment_method_id=90&hash=3a6d639551d5d61b1571627d690e4199&msisdn=79100888892&is_recurrent=true - 500
+Успешно init - Номер: 79100888891 - Ошибка: CONFIRMATION - 0
+Запрос smsCode - Подписка: 7069419; Статус: DENIED - ; Ошибка: 53
+Неверно введен код СМС -  - subscription_id - 7069419 код ошибки - 53
+Запрос smsCode - Подписка: 7069419; Статус: ACCEPTED - ; Ошибка: 0
+Успешно init - Номер: 79261498899 - Ошибка: CONFIRMATION - 0
+Запрос smsCode - Подписка: 7069454; Статус: ACCEPTED - ; Ошибка: 0
+Успешно init - Номер: 79261488899 - Ошибка: CONFIRMATION - 0
+Запрос smsCode - Подписка: 7069463; Статус: ACCEPTED - ; Ошибка: 0
+Успешно init - Номер: 79100888891 - Ошибка: CONFIRMATION - 0
+Запрос smsCode - Подписка: 7069484; Статус: ACCEPTED - ; Ошибка: 0
+Номер телефона: 79652159952 - Статус - DENIED - Код ошибки4
+Номер телефона: 79652159952 - Статус - DENIED - Код ошибки4
+Номер телефона: 79652159952 - Статус - DENIED - Код ошибки4
+Успешно init - Номер: 79998907236 - Ошибка: CONFIRMATION - 0
+Запрос smsCode - Подписка: 7074595; Статус: DENIED - ; Ошибка: 53
+Неверно введен код СМС -  - subscription_id - 7074595 код ошибки - 53
+Запрос smsCode - Подписка: 7074595; Статус: ACCEPTED - ; Ошибка: 0
+Номер телефона: 79647850881 - Статус - DENIED - Код ошибки4

@@ -1,0 +1,22 @@
+ЗАПРОС - Array : ОШИБКА - 4
+ЗАПРОС - Array : ОШИБКА - 4
+ЗАПРОС - Array : ОШИБКА - 4
+ЗАПРОС - Array : ОШИБКА - 4
+ЗАПРОС - Array : ОШИБКА - 4
+ЗАПРОС - Array : ОШИБКА - 4
+ЗАПРОС - Array : ОШИБКА - 4
+ЗАПРОС - Array : ОШИБКА - 4
+ЗАПРОС - Array : ОШИБКА - 4
+ЗАПРОС - Array : ОШИБКА - 4
+ЗАПРОС - Array : ОШИБКА - 4
+ЗАПРОС - Array : ОШИБКА - 4
+ЗАПРОС - service_id=77284&order_id=1660530596&product_id=386&payment_method_id=90&hash=eeaf9918e7acfe54fb9a6d8cd134f58f&is_recurrent=true&masked_pan=79788855666 : ОШИБКА - 4
+ЗАПРОС - service_id=77284&order_id=1660530596&product_id=386&payment_method_id=90&hash=eeaf9918e7acfe54fb9a6d8cd134f58f&is_recurrent=true&masked_pan=79774878465 : ОШИБКА - 4
+ЗАПРОС - service_id=77284&order_id=1660530596&product_id=386&payment_method_id=90&hash=eeaf9918e7acfe54fb9a6d8cd134f58f&is_recurrent=true&masked_pan=79778888955 : ОШИБКА - 4
+ЗАПРОС - service_id=77284&order_id=1660530596&product_id=386&payment_method_id=90&hash=eeaf9918e7acfe54fb9a6d8cd134f58f&is_recurrent=true&masked_pan=79774556444 : ОШИБКА - 4
+ЗАПРОС - service_id=77284&order_id=3790036668&product_id=386&payment_method_id=90&hash=4339b5dbec0571e2def7646130d96554&masked_pan=79777855699&is_recurrent=true : ОШИБКА - 4
+ЗАПРОС - service_id=77284&order_id=1660530596&product_id=386&payment_method_id=90&hash=eeaf9918e7acfe54fb9a6d8cd134f58f&is_recurrent=true&masked_pan=79778851122 : ОШИБКА - 4
+ЗАПРОС - service_id=77284&order_id=1660530596&product_id=386&payment_method_id=90&hash=eeaf9918e7acfe54fb9a6d8cd134f58f&msisdn=79778851122&is_recurrent=true : ОШИБКА - 102
+ЗАПРОС - Неверно введен код СМС -  : ОШИБКА - subscription_id - 6926309 код ошибки - 53
+ЗАПРОС - Неверно введен код СМС -  : ОШИБКА - subscription_id - 6926432 код ошибки - 53
+ЗАПРОС - Неверно введен код СМС -  : ОШИБКА - subscription_id - 6926445 код ошибки - 53

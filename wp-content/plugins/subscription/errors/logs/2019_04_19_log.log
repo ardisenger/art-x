@@ -1,0 +1,47 @@
+Запрос - service_id=77284&order_id=9906668548&product_id=386&payment_method_id=90&hash=e75432e1fe271f4d97422cf1cb9515b8&msisdn=70000000000&is_recurrent=true - 
+Ошибка init - Номер:70000000000 - Ошибка: service_id=77284&order_id=9906668548&product_id=386&payment_method_id=90&hash=e75432e1fe271f4d97422cf1cb9515b8&msisdn=70000000000&is_recurrent=true - 4
+Запрос - service_id=77284&order_id=1524427801&product_id=386&payment_method_id=90&hash=a0ce47998b25475ae0a4704fc6c2076f&msisdn=79197634595&is_recurrent=true - 
+Ошибка init - Номер:79197634595 - Ошибка: service_id=77284&order_id=1524427801&product_id=386&payment_method_id=90&hash=a0ce47998b25475ae0a4704fc6c2076f&msisdn=79197634595&is_recurrent=true - 500
+Запрос - service_id=77284&order_id=5516698997&product_id=386&payment_method_id=90&hash=093f9d477952546df41a92659500eb0d&msisdn=79197634595&is_recurrent=true - 
+Ошибка init - Номер:79197634595 - Ошибка: service_id=77284&order_id=5516698997&product_id=386&payment_method_id=90&hash=093f9d477952546df41a92659500eb0d&msisdn=79197634595&is_recurrent=true - 102
+Запрос - service_id=77284&order_id=1736184429&product_id=386&payment_method_id=90&hash=e08a8653aaf605b966c896f3c5b84df7&msisdn=76304877050&is_recurrent=true - 
+Ошибка init - Номер:76304877050 - Ошибка: service_id=77284&order_id=1736184429&product_id=386&payment_method_id=90&hash=e08a8653aaf605b966c896f3c5b84df7&msisdn=76304877050&is_recurrent=true - 4
+Успешно init - Номер: 79530652080 - Ошибка: CONFIRMATION - 0
+Запрос smsCode - Подписка: 7079479; Статус: DENIED - ; Ошибка: 53
+Неверно введен код СМС -  - subscription_id - 7079479 код ошибки - 53
+Запрос smsCode - Подписка: 7079479; Статус: DENIED - ; Ошибка: 53
+Неверно введен код СМС -  - subscription_id - 7079479 код ошибки - 53
+Запрос smsCode - Подписка: 7079479; Статус: DENIED - ; Ошибка: 53
+Неверно введен код СМС -  - subscription_id - 7079479 код ошибки - 53
+Запрос smsCode - Подписка: 7079479; Статус: DENIED - ; Ошибка: 53
+Неверно введен код СМС -  - subscription_id - 7079479 код ошибки - 53
+Номер телефона: 78953801770 - Статус - DENIED - Код ошибки4
+Номер телефона: 79087986034 - Статус - DENIED - Код ошибки102
+Успешно init - Номер: 79087986034 - Ошибка: CONFIRMATION - 0
+Успешно init - Номер: 79532889530 - Ошибка: CONFIRMATION - 0
+Запрос smsCode - Подписка: 7081530; Статус: ACCEPTED - ; Ошибка: 0
+Успешно init - Номер: 79779747556 - Ошибка: CONFIRMATION - 0
+Номер телефона: 79779747556 - Статус - DENIED - Код ошибки102
+Номер телефона: 79779747556 - Статус - DENIED - Код ошибки102
+Успешно init - Номер: 79773736734 - Ошибка: CONFIRMATION - 0
+Номер телефона: 79663546642 - Статус - DENIED - Код ошибки4
+Успешно init - Номер: 79772969564 - Ошибка: CONFIRMATION - 0
+Запрос smsCode - Подписка: 7081935; Статус: DENIED - ; Ошибка: 53
+Неверно введен код СМС -  - subscription_id - 7081935 код ошибки - 53
+Запрос smsCode - Подписка: 7081935; Статус: DENIED - ; Ошибка: 53
+Неверно введен код СМС -  - subscription_id - 7081935 код ошибки - 53
+Запрос smsCode - Подписка: 7081935; Статус: DENIED - ; Ошибка: 53
+Неверно введен код СМС -  - subscription_id - 7081935 код ошибки - 53
+Запрос smsCode - Подписка: 7081935; Статус: ACCEPTED - ; Ошибка: 0
+Запрос smsCode - Подписка: 7081935; Статус: DENIED - ; Ошибка: 53
+Неверно введен код СМС -  - subscription_id - 7081935 код ошибки - 53
+Запрос smsCode - Подписка: 7081935; Статус: DENIED - ; Ошибка: 53
+Неверно введен код СМС -  - subscription_id - 7081935 код ошибки - 53
+Запрос smsCode - Подписка: 7081935; Статус: DENIED - ; Ошибка: 53
+Неверно введен код СМС -  - subscription_id - 7081935 код ошибки - 53
+Запрос smsCode - Подписка: 7081935; Статус: DENIED - ; Ошибка: 53
+Неверно введен код СМС -  - subscription_id - 7081935 код ошибки - 53
+Запрос smsCode - Подписка: 7081935; Статус: DENIED - ; Ошибка: 53
+Неверно введен код СМС -  - subscription_id - 7081935 код ошибки - 53
+Запрос smsCode - Подписка: 7081935; Статус: DENIED - ; Ошибка: 53
+Неверно введен код СМС -  - subscription_id - 7081935 код ошибки - 53

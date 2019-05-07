@@ -1,0 +1,50 @@
+Успешно init - Номер: 79283325417 - Ошибка: CONFIRMATION - 0
+Номер телефона: +7(___)___-____ - Статус - DENIED - Код ошибки4
+Номер телефона: 79143717719 - Статус - DENIED - Код ошибки500
+Номер телефона: 79143717719 - Статус - DENIED - Код ошибки500
+Номер телефона: 79143717719 - Статус - DENIED - Код ошибки102
+Номер телефона: 79143717719 - Статус - DENIED - Код ошибки102
+Номер телефона: 79143717719 - Статус - DENIED - Код ошибки102
+Номер телефона: 79143717719 - Статус - DENIED - Код ошибки102
+Номер телефона: 79143717719 - Статус - DENIED - Код ошибки102
+Номер телефона: 78914371771 - Статус - DENIED - Код ошибки4
+Номер телефона: +7(___)___-____ - Статус - DENIED - Код ошибки4
+Номер телефона: 77017314936 - Статус - DENIED - Код ошибки4
+Номер телефона: 71257982666 - Статус - DENIED - Код ошибки4
+Номер телефона: 71257982666 - Статус - DENIED - Код ошибки4
+Запрос - service_id=77284&order_id=3477159568&product_id=386&payment_method_id=90&hash=9b0b9287b6e80b68833dd1fa714cc5f6&msisdn=+7(926)149-4942&is_recurrent=true - 
+Ошибка init - Номер:+7(926)149-4942 - Ошибка: service_id=77284&order_id=3477159568&product_id=386&payment_method_id=90&hash=9b0b9287b6e80b68833dd1fa714cc5f6&msisdn=+7(926)149-4942&is_recurrent=true - 4
+Запрос - service_id=77284&order_id=3675455275&product_id=386&payment_method_id=90&hash=d6b6e74e8e56bec0053de2683c32167f&msisdn=+7(926)149-4942&is_recurrent=true - 
+Ошибка init - Номер:+7(926)149-4942 - Ошибка: service_id=77284&order_id=3675455275&product_id=386&payment_method_id=90&hash=d6b6e74e8e56bec0053de2683c32167f&msisdn=+7(926)149-4942&is_recurrent=true - 4
+Запрос - service_id=77284&order_id=1143652201&product_id=386&payment_method_id=90&hash=117220fea83f60ac551bbad798c515f0&msisdn=+7(926)149-4942&is_recurrent=true - 
+Ошибка init - Номер:+7(926)149-4942 - Ошибка: service_id=77284&order_id=1143652201&product_id=386&payment_method_id=90&hash=117220fea83f60ac551bbad798c515f0&msisdn=+7(926)149-4942&is_recurrent=true - 4
+Запрос - service_id=77284&order_id=7997696712&product_id=386&payment_method_id=90&hash=5794c7f763a66b8d7c2749155273c060&msisdn=+7(926)149-4942&is_recurrent=true - 
+Ошибка init - Номер:+7(926)149-4942 - Ошибка: service_id=77284&order_id=7997696712&product_id=386&payment_method_id=90&hash=5794c7f763a66b8d7c2749155273c060&msisdn=+7(926)149-4942&is_recurrent=true - 4
+Запрос - service_id=77284&order_id=9891039783&product_id=386&payment_method_id=90&hash=6a22c3ef686c083053b3b91b9187fdd4&msisdn=79261494942&is_recurrent=true - 
+Успешно init - Номер: 79261494942 - Ошибка: CONFIRMATION - 0
+Запрос - service_id=77284&order_id=7630361325&product_id=386&payment_method_id=90&hash=bc9fe60dadcc38f7aee5ecb2a0625fa0&msisdn=79261494941&is_recurrent=true - 
+Успешно init - Номер: 79261494941 - Ошибка: CONFIRMATION - 0
+Запрос - service_id=77284&order_id=5303932956&product_id=386&payment_method_id=90&hash=2985d2a17e851e761e67eb69bc6c58ce&msisdn=79261494945&is_recurrent=true - 
+Успешно init - Номер: 79261494945 - Ошибка: CONFIRMATION - 0
+Запрос - service_id=77284&order_id=9762102023&product_id=386&payment_method_id=90&hash=8820c1a5df90ddec20d5d52a7d28b1f0&msisdn=79261494944&is_recurrent=true - 
+Успешно init - Номер: 79261494944 - Ошибка: CONFIRMATION - 0
+Запрос - service_id=77284&order_id=1193173792&product_id=386&payment_method_id=90&hash=dbbf3ee6da99b9dc38dd3dc620944d40&msisdn=79261494944&is_recurrent=true - 
+Успешно init - Номер: 79261494944 - Ошибка: CONFIRMATION - 0
+Запрос - service_id=77284&order_id=2231711392&product_id=386&payment_method_id=90&hash=e5898d4de81d01608bdd9aac1c6182a6&msisdn=79161716583&is_recurrent=true - 
+Ошибка init - Номер:79161716583 - Ошибка: service_id=77284&order_id=2231711392&product_id=386&payment_method_id=90&hash=e5898d4de81d01608bdd9aac1c6182a6&msisdn=79161716583&is_recurrent=true - 500
+Запрос - service_id=77284&order_id=2604312363&product_id=386&payment_method_id=90&hash=65577430ab367149725392cfffe23968&msisdn=79771444556&is_recurrent=true - 
+Успешно init - Номер: 79771444556 - Ошибка: CONFIRMATION - 0
+Запрос smsCode - Подписка: 7184004; Статус: DENIED - ; Ошибка: 53
+Неверно введен код СМС -  - subscription_id - 7184004 код ошибки - 53
+Запрос smsCode - Подписка: 7184004; Статус: DENIED - ; Ошибка: 53
+Неверно введен код СМС -  - subscription_id - 7184004 код ошибки - 53
+Запрос smsCode - Подписка: 7184004; Статус: DENIED - ; Ошибка: 53
+Неверно введен код СМС -  - subscription_id - 7184004 код ошибки - 53
+Запрос smsCode - Подписка: 7184004; Статус: DENIED - ; Ошибка: 53
+Неверно введен код СМС -  - subscription_id - 7184004 код ошибки - 53
+Запрос smsCode - Подписка: 7184004; Статус: DENIED - ; Ошибка: 53
+Неверно введен код СМС -  - subscription_id - 7184004 код ошибки - 53
+Запрос smsCode - Подписка: 7184004; Статус: DENIED - ; Ошибка: 53
+Неверно введен код СМС -  - subscription_id - 7184004 код ошибки - 53
+Запрос smsCode - Подписка: 7184004; Статус: DENIED - ; Ошибка: 53
+Неверно введен код СМС -  - subscription_id - 7184004 код ошибки - 53
